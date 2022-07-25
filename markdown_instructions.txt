@@ -1,0 +1,8 @@
+#title - highlighting the titles. The number of characters "#" sets the header level
+= or - : this underscore (at least 3 in a row) highlights the headings of the first (=) or second (-) level
+**bold font** or __bold font__: this type of selection is used for bold font
+*italic font* or _cursive font_: this type of selection is used for bold font
+***bold italics***: this type of selection is used for bold italics
+~~strikethrough text~~: this type of selection is used for strikethrough
+*at the beginning of the line - unnumbered lists
+1, 2, 3 at the beginning of the line - numbered lists
